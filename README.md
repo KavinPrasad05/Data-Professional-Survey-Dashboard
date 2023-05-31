@@ -39,8 +39,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 # Acknowledgments
 We would like to acknowledge the valuable contributions of the data professionals who participated in the survey and made this dashboard possible. Their insights and feedback are greatly appreciated.
 
-# Contact
-For any inquiries or feedback regarding the Data Professional Survey Dashboard, please reach out to the project maintainers at [email protected]
+
 
 
 
