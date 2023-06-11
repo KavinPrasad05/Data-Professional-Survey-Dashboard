@@ -1,4 +1,6 @@
 # Data Professional Survey Dashboard
+
+## Dashboard: http://bit.ly/3C7nawS
 This repository contains the code and resources for the Data Professional Survey Dashboard, developed using Power BI. The dashboard provides insights into the demographics and job market trends of data professionals based on survey data. It includes a country breakdown of survey takers and average salary analysis by job title.
 
 # Features
